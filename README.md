@@ -21,13 +21,21 @@ To get started with this recommendation system, follow the instructions below:
 3. Download the datasets
 
    ```
-   Download the datasets from Kaggle website by accessing the link at 3.4 below
+   https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations
    ```  
    
 5. Run the recommendation system:
+  Click on any of the links below and select Google Colaboratory option to execute the Code
 
    ```
-   Click on any of the links below and select Google Colaboratory option to execute the Code
+  3.1 Code Notebook- EDA, Content-Filter Based Recommendation 
+      https://drive.google.com/file/d/1t65rv8rTuxTdPZKmlRNA6LdmKy1PbhEa/view?usp=share_link
+
+  3.2 Code Notebook- Collaborative-Filter Based Recommendation Matrix Factorization, Feature Engineering 
+      https://drive.google.com/file/d/17QfOi5uJaukzRq0cD3qJgMUh5AiEZFOG/view?usp=share_link
+
+  3.3 Code Notebook- Collaborative-filter Recommendation Surprise, Feature Engineering 
+      https://drive.google.com/file/d/17fyE1RLLTMFPAMbRvJ-OMCgikOG0Nnvr/view?usp=share_link 
    ```
 
 ## How it Works
