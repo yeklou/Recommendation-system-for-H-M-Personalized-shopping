@@ -42,7 +42,7 @@ To get started with this recommendation system, follow the instructions below:
       https://drive.google.com/file/d/17fyE1RLLTMFPAMbRvJ-OMCgikOG0Nnvr/view?usp=share_link 
       ```
    
-   5.2. Execute code using prompt command
+   5.2. Execute code in terminal using prompt command
    
     ```
    jupyter notebook EDA.ipynb
